@@ -1,4 +1,6 @@
-<img src="https://gitee.com/ForthEspada/image/raw/master/image/202202082249129.png" target="_blank" href="" alt="loading">
+<p align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/image/202202082249129.png" target="_blank" href="" alt="loading"> </p>
+
+
 
 <p align="center">“ MIT理工科的圣殿，素以顶尖的工程学和计算机科学而著名。“</p>
 
