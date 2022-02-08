@@ -123,25 +123,25 @@ git push origin master
 高级科目很多（我挑选了我感兴趣的，课程代码如下）：
 6.035, 6.170, 6.172, 6.175, 6.814, 6.816, 6.808 (formerly 6.S062),6.820, 6.821, 6.822, 6.823, 6.824, 6.825, 6.826, 6.828, 6.829, 6.830, 6.836, 6.846, 6.857, 6.858, 6.885, 6.886, 6.871, 6.887, 6.888
 
-***6.824: Distributed Systems\***
+**6.824: Distributed Systems**
 
 本课程介绍分布式系统设计的抽象和实现技术。主题包括：服务器设计、网络编程、命名、存储系统、安全性和容错能力。
 
 [https://pdos.csail.mit.edu/6.824/](https://link.zhihu.com/?target=https%3A//pdos.csail.mit.edu/6.824/)
 
-***6.828: Operating System Engineering\***
+**6.828: Operating System Engineering**
 
 本课程研究操作系统工程的基本设计和实现理念。讲座以 UNIX 和研究论文的研究为基础。主题包括虚拟内存、线程、上下文切换、内核、中断、系统调用、进程间通信、协调和软件和硬件之间的交互。单个实验室任务涉及在 C 中实施小型操作系统，并带有一些 x86 组件。
 
 [https://pdos.csail.mit.edu/6.828/2019/schedule.html](https://link.zhihu.com/?target=https%3A//pdos.csail.mit.edu/6.828/2019/schedule.html)
 
-***6.829: Computer Networks\***
+**6.829: Computer Networks**
 
 全球网络基础设施如何工作，其基础是什么设计原则？在实践中，这些设计原则在哪些方面受到了损害？我们如何使它在当今世界更好地工作？面对快速增长的规模和异质性，我们如何确保它在未来运作良好？应该如何编写 Internet 应用程序，以便它们能够为自己和使用基础结构的其他人获得最佳性能？这些是本课程中正在处理的一些问题。本课程将侧重于大型联网系统的设计、实施、分析和评估。
 
 [https://web.mit.edu/6.829/www/currentsemester/](https://link.zhihu.com/?target=https%3A//web.mit.edu/6.829/www/currentsemester/)
 
-***6.830/6.814: Database Systems\***
+**6.830/6.814: Database Systems**
 
 本课程依托数据库社区的主要阅读资料，向研究生介绍数据库系统的基础，重点介绍关系代数和数据模型、架构规范化、查询优化和事务。
 
