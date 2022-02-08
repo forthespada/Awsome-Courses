@@ -1,12 +1,6 @@
-<p align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/image/202202082249129.png" target="_blank" href="" alt="loading"> </p>
+<p align="center"><img src="https://gitee.com/ForthEspada/image/raw/master/image/202202082249129.png" target="_blank" href="https://github.com/awesome-cs-community/Awsome-Courses" alt="loading"> </p>
 
-
-
-<p align="center">“ MIT理工科的圣殿，素以顶尖的工程学和计算机科学而著名。“</p>
-
-最初打算总结一份MIT的计算课程列表，后来总结越来越多，逐渐扩展到更多的计算机经典课程。
-
-
+<p align="center">“ MIT,理工科的圣殿，素以顶尖的工程学和计算机科学而著名。“<br> 最初打算总结一份MIT的计算课程列表，没想到后来总结越来越多，逐渐扩展到更多的计算机经典课程。</p>
 
 ## 贡献指南
 
