@@ -5,9 +5,9 @@
 </p>
 <p align="center">“ MIT是所有理工科学子的圣殿，素以顶尖的工程学和计算机科学而著名。“<br> 最初打算总结一份MIT的计算课程列表，没想到后来越看越多，<strong>MIT、CMU、PKU、THU....让你看到头秃...</strong></p>
 
+👉 推荐：**如果小伙伴访问Github仓库速度较慢，可以访问[码云](https://gitee.com/ForthEspada/Awsome-Courses)，我在码云上也放了一份，同步更新**
 
-
-<b><details><summary>:orange_book: 贡献指南</summary></b>
+<b><details><summary>:orange_book: 仓库贡献指南</summary></b>
 
 - 点击右上角`fork`按钮，将项目`fork`到自己的Github账户里。
 - 使用`git clone`将项目克隆到本地。
@@ -29,7 +29,7 @@ git push origin master
 
 </details>
 
-👉 推荐：**如果小伙伴访问Github仓库速度较慢，可以访问[码云](https://gitee.com/ForthEspada/Awsome-Courses)，我在码云上也放了一份，同步更新**
+
 
 ## 良心推荐
 
