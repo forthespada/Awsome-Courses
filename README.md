@@ -3,7 +3,7 @@
   <img src="https://gitee.com/ForthEspada/image/raw/master/image/202202082249129.png"  alt="loading">
   </a>
 </p>
-<p align="center">“ MIT,理工科的圣殿，素以顶尖的工程学和计算机科学而著名。“<br> 最初打算总结一份MIT的计算课程列表，没想到后来越看越多，直至扩展到很多国内网计算机名校的经典课程。<br><strong>让你看到头秃...</strong></p>
+<p align="center">“ MIT是所有理工科学子的圣殿，素以顶尖的工程学和计算机科学而著名。“<br> 最初打算总结一份MIT的计算课程列表，没想到后来越看越多，<strong>MIT、CMU、PKU、THU....让你看到头秃...</strong></p>
 
 
 
