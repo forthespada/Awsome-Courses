@@ -52,7 +52,7 @@ git push origin master
 
 地址：[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
 
-**6.821 计算机程序的构造和解释 **
+**6.821 计算机程序的构造和解释**
 
 课程地址：[Structure and Interpretation of Computer Programs](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005)、 [6.821 Programming Languages (Fall 2002)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-821-programming-languages-fall-2002)
 
