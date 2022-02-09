@@ -114,9 +114,7 @@ Java的基础课程，可以和6.031一起学习。
 
 课程地址：[Fundamentals of Programming](https://link.zhihu.com/?target=https%3A//py.mit.edu/spring21)
 
-主要是Python编程
-
-**6.033 计算机系统 **
+**6.033 计算机系统**
 
 课程地址：[Computer System Engineering (Spring 2018)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018)
 
@@ -138,97 +136,97 @@ Java的基础课程，可以和6.031一起学习。
 
 以下课程只需要选择两三门课来学习就可以了。
 
-- **6.031 软件构建（Java）**
+**6.031 软件构建（Java）**
 
 课程地址：[Software Construction](https://link.zhihu.com/?target=http%3A//web.mit.edu/6.031/www/fa20/)
 
 这门课主要学的是Java，没有参考书，课程链接有比较详细的线上教程；可以和6.005一起学习。
 
-- **6.033 计算机系统工程**
+**6.033 计算机系统工程**
 
 课程地址：[6.033](https://link.zhihu.com/?target=http%3A//student.mit.edu/catalog/m6a.html%236.033) Computer Systems Engineering (12)
 
-- **6.035 计算机语言工程 ★**★★★★
+**6.035 计算机语言工程 ★**★★★★
 
 课程地址：[Computer Language Engineering (Spring 2010)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-spring-2010)、[Computer Language Engineering (SMA 5502) (Fall 2005)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-035-computer-language-engineering-sma-5502-fall-2005)
 
-- **6.036 机器学习导论** ★★★★★
+**6.036 机器学习导论** ★★★★★
 
 课程地址：[Introduction to Machine Learning (Fall 2020)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-introduction-to-machine-learning-fall-2020)
 
-- **6.045J 自动机、可计算性和复杂性**
+**6.045J 自动机、可计算性和复杂性**
 
 课程地址：[Automata, Computability, and Complexity (Spring 2011)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-045j-automata-computability-and-complexity-spring-2011)
 
-- **6.046J 算法的设计与分析**
+**6.046J 算法的设计与分析**
 
 课程地址：[Design and Analysis of Algorithms (Spring 2015)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015)
 
-- **6.073 视频游戏开发**
+**6.073 视频游戏开发**
 
 课程地址：[Creating Video Games (Fall 2014)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014)
 
-- **6.080/6.089 计算机科学的伟大理论★★★★★**
+**6.080/6.089 计算机科学的伟大理论★★★★★**
 
 课程地址：[Great Ideas in Theoretical Computer Science (Spring 2008)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-080-great-ideas-in-theoretical-computer-science-spring-2008)
 
-- **6.170 软件工程（前端开发JavaScript）**
+**6.170 软件工程（前端开发JavaScript）**
 
 课程地址：[Software Studio](https://link.zhihu.com/?target=https%3A//canvas.mit.edu/courses/4415)
 
 这门课以前是使用Ruby的Rails和JavaScript来搭建一个**全栈开发项目**。而现在则完全是使用JavaScript来做全栈开发，内容包含Node、MySQL、React等。
 
-- **6.171 Web应用开发与软件工程**
+**6.171 Web应用开发与软件工程**
 
 课程地址：[Software Engineering for Web Applications (Fall 2003)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-171-software-engineering-for-web-applications-fall-2003/)
 
 这门课可以和6.170一起学，主要如何构建高并发、安全、可靠等的Web应用
 
-- **6.172 软件系统的性能（C语言）** ★★★★★
+**6.172 软件系统的性能（C语言）** ★★★★★
 
 课程地址：[Performance Engineering of Software Systems (Fall 2018)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)
 
 这门课主要教你如何构建大型高性能的软件系统，包含性能分析、高性能、缓存优化、并行程序等，使用的是C语言。这门课没有参考教材，倒是有一堆文章需要你阅读，具体可以去官网的Readings了解。
 
-- **6.175 计算机体系结构** ★★★★★
+**6.175 计算机体系结构** ★★★★★
 
 课程地址：[Constructive Computer Architecture](https://link.zhihu.com/?target=http%3A//csg.csail.mit.edu/6.175/)
 
 学这门课需要你掌握一门面向对象的编程语言（Java或C++）或函数式编程语言（ML或Haskell）,以及6.004、6.005
 
-- **6.207J 计算机网络**
+**6.207J 计算机网络**
 
 课程地址：[Networks (Spring 2018)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/economics/14-15j-networks-spring-2018)
 
-- **6.338J 并行计算**
+**6.338J 并行计算**
 
 课程地址：[Parallel Computing (Fall 2011)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/mathematics/18-337j-parallel-computing-fall-2011)
 
-- **6.801 机器视觉**
+**6.801 机器视觉**
 
 课程地址：[Machine Vision (Fall 2020)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-801-machine-vision-fall-2020)
 
-- **6.803 人工智能事业**
+**6.803 人工智能事业**
 
 课程地址：[The Human Intelligence Enterprise (Spring 2019)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-803-the-human-intelligence-enterprise-spring-2019)
 
-- **6.804J 计算人知科学**
+**6.804J 计算人知科学**
 
 课程地址：[Computational Cognitive Science (Fall 2004)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/brain-and-cognitive-sciences/9-66j-computational-cognitive-science-fall-2004)
 
-- **6.811 辅助技术原理与实战**
+**6.811 辅助技术原理与实战**
 
 课程地址：[Principles and Practice of Assistive Technology (Fall 2014)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-811-principles-and-practice-of-assistive-technology-fall-2014)
 
-- **6.813 用户界面设计与实践**
+**6.813 用户界面设计与实践**
 
 课程地址：[User Interface Design and Implementation (Spring 2011)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-831-user-interface-design-and-implementation-spring-2011)
 
-- **6.815/6.865 数字与计算成像**
+**6.815/6.865 数字与计算成像**
 
 课程地址：[Digital and Computational Photography](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/syllabus/)
 
-- **6.816/6.189 多处理器编程的艺术**
+**6.816/6.189 多处理器编程的艺术**
 
 课程地址：[Multicore Programming Primer (January IAP 2007)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-multicore-programming-primer-january-iap-2007)
 
@@ -238,15 +236,15 @@ Java的基础课程，可以和6.031一起学习。
 
 课程地址：[Advances in Computer Vision (12)](https://link.zhihu.com/?target=http%3A//6.869.csail.mit.edu/sp21/)
 
-- **6.820 程序分析基础**
+**6.820 程序分析基础**
 
 课程地址：[Fundamentals of Program Analysis (Fall 2015)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-820-fundamentals-of-program-analysis-fall-2015)
 
-- **6.837 计算机图形学**
+**6.837 计算机图形学**
 
 课程地址：[Computer Graphics (Fall 2012)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-837-computer-graphics-fall-2012/)
 
-- **18.404/6.840 计算理论导引**
+**18.404/6.840 计算理论导引**
 
 课程地址：[Theory of Computation (12)](https://link.zhihu.com/?target=https%3A//math.mit.edu/~sipser/18404/)
 
