@@ -29,6 +29,8 @@ git push origin master
 
 </details>
 
+👉 推荐：**如果小伙伴访问Github仓库速度较慢，可以访问[码云](https://gitee.com/ForthEspada/Awsome-Courses)，我在码云上也放了一份，同步更新**
+
 ## 良心推荐
 
 如果你**挑花眼**了，不知道该学哪个？
