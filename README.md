@@ -6,7 +6,7 @@
 
 <p align="center">“ MIT,理工科的圣殿，素以顶尖的工程学和计算机科学而著名。“<br> 最初打算总结一份MIT的计算课程列表，没想到后来总结越来越多，逐渐扩展到更多的计算机经典课程。</p>
 
-## <b><details><summary>贡献指南</summary></b>
+## <b><details><summary>:orange_book: 贡献指南</summary></b>
 
 - 点击右上角`fork`按钮，将项目`fork`到自己的Github账户里。
 - 使用`git clone`将项目克隆到本地。
@@ -26,7 +26,7 @@ git push origin master
 
 - 提交`Pull request`
 
-## </details>
+</details>
 
 ## 入门科目
 
