@@ -35,9 +35,27 @@ git push origin master
 
 如果你**挑花眼**了，不知道该学哪个？
 
-过来人推荐你去看看本页面的**哈佛大学的CS-50、MIT的 6.828 、MIT 的6,824以及清华大学的OS课程**。
+过来人推荐你去看看本页面的**哈佛大学的CS-50、MIT的 6.828 、MIT 的6.824以及清华大学的OS课程**。
 
 这四门课程对于大多数人都绝对受用！
+
+## 国内优秀编程视频
+
+其实国内也有很多优秀编程视频，以前阿秀就曾经总结过三期，今天一起分享出来吧！
+
+**第一期**：[点击直达](https://mp.weixin.qq.com/s/ct6yind_rqjl3sOZk_33sQ)
+
+![](https://gitee.com/ForthEspada/image/raw/master/image/202202270121709.png)
+
+
+
+**第二期**：[点击直达](https://mp.weixin.qq.com/s/GI1QnwTlkMFRY36Z4G2pMg)
+
+![](https://gitee.com/ForthEspada/image/raw/master/image/202202270121668.png)
+
+**第三期**：[点击直达](https://mp.weixin.qq.com/s/NPskxGeMa1XoTWFRq32CwQ)
+
+![](https://gitee.com/ForthEspada/image/raw/master/image/202202270122494.png)
 
 ## 入门科目
 
