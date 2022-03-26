@@ -45,17 +45,17 @@ git push origin master
 
 **第一期**：[点击直达](https://mp.weixin.qq.com/s/ct6yind_rqjl3sOZk_33sQ)
 
-![](https://gitee.com/ForthEspada/image/raw/master/image/202202270121709.png)
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261421142.png" alt="第一期" style="width:400px;" />
 
 
 
 **第二期**：[点击直达](https://mp.weixin.qq.com/s/GI1QnwTlkMFRY36Z4G2pMg)
 
-![](https://gitee.com/ForthEspada/image/raw/master/image/202202270121668.png)
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261421279.png" alt="第二期" style="width:400px;" />
 
 **第三期**：[点击直达](https://mp.weixin.qq.com/s/NPskxGeMa1XoTWFRq32CwQ)
 
-![](https://gitee.com/ForthEspada/image/raw/master/image/202202270122494.png)
+<img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261422715.png" alt="第三期" style="width:400px;"  />
 
 ## 入门科目
 
