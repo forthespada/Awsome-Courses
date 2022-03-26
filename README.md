@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/awesome-cs-community/Awsome-Courses" target="_blank">
-  <img src="https://gitee.com/ForthEspada/image/raw/master/image/202202082249129.png"  alt="loading">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261514544.png"  alt="loading">
   </a>
 </p>
 <p align="center">“ MIT是所有理工科学子的圣殿，素以顶尖的工程学和计算机科学而著名。“<br> 最初打算总结一份MIT的计算课程列表，没想到后来越看越多，<strong>MIT、CMU、PKU、THU....让你看到头秃...</strong></p>
