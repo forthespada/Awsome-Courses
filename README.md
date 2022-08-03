@@ -13,7 +13,7 @@
 - 使用`git clone`将项目克隆到本地。
 
 ```
-git clone https://github.com/awesome-cs-community/Awsome-Courses.git
+git clone https://github.com/forthespada/Awsome-Courses.git
 ```
 
 - 用编辑器打开进行贡献，然后提交到`fork`的仓库。
@@ -35,29 +35,60 @@ git push origin master
 
 如果你**挑花眼**了，不知道该学哪个？
 
-过来人推荐你去看看本页面的**哈佛大学的CS-50、MIT的 6.828 、MIT 的6.824以及清华大学的OS课程**。
+过来人推荐你去看看本页面的**Crash Course Computer Science（计算机科学速成课）、哈佛大学的CS-50、MIT的 6.828 、MIT 的6.824以及清华大学的OS课程**。
 
-这四门课程对于大多数人都绝对受用！
+这5门课程对于大多数人都绝对受用！
 
 ## 国内优秀编程视频
 
 其实国内也有很多优秀编程视频，以前阿秀就曾经总结过三期，今天一起分享出来吧！
 
-**第一期**：[点击直达](https://mp.weixin.qq.com/s/ct6yind_rqjl3sOZk_33sQ)
+**第一期**：[点击直达](https://interviewguide.cn/notes/04-experience/01-learn_experience/20210809%20-%20%E7%AC%AC%E4%B8%80%E6%9C%9F-%E6%88%91%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%85%A8%E9%9D%A0B%E7%AB%99%E4%BA%86%EF%BC%8C%E7%9C%9F%E9%A6%99.html)
 
 <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261421142.png" alt="第一期" style="width:400px;" />
 
 
 
-**第二期**：[点击直达](https://mp.weixin.qq.com/s/GI1QnwTlkMFRY36Z4G2pMg)
+**第二期**：[点击直达](https://interviewguide.cn/notes/04-experience/01-learn_experience/20210823%20-%20%E7%AC%AC%E4%BA%8C%E6%9C%9F-%E6%88%91%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%85%A8%E9%9D%A0B%E7%AB%99%E4%BA%86%EF%BC%8C%E7%9C%9F%E9%A6%99.html)
 
 <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261421279.png" alt="第二期" style="width:400px;" />
 
-**第三期**：[点击直达](https://mp.weixin.qq.com/s/NPskxGeMa1XoTWFRq32CwQ)
+**第三期**：[点击直达](https://interviewguide.cn/notes/04-experience/01-learn_experience/20210907%20-%20%E7%AC%AC%E4%B8%89%E6%9C%9F-%E6%88%91%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%85%A8%E9%9D%A0B%E7%AB%99%E4%BA%86%EF%BC%8C%E7%9C%9F%E9%A6%99-%E5%9B%BD%E5%A4%96%E7%AF%87%EF%BC%88%E7%AC%AC%E4%B8%89%E6%9C%9F%EF%BC%89.html)
 
 <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202203261422715.png" alt="第三期" style="width:400px;"  />
 
 ## 入门科目
+
+- **Crash Course Computer Science，计算机科学速成课**
+
+这门课有很多地方都适合小白，比如视频内容精炼但不冗余，该介绍到的都介绍到了，如果你担心这门课程过于简单，那你就大错特错了。
+
+- 从继电器讲到真空管，最后再到晶体管和集成电路；
+- 从最原始的纸袋打孔到机器语言的出现，再到汇编语言和高级语言，如Java、C++等；
+-  从与或非的逻辑运算到CPU运算是如何处理的；
+-  还有机器学习、深度学习以及人工智能等最新领域的介绍
+
+如果说唯一美中不足的点，那就是其中部分环节语速过快，对于大多数国人来说看起来比较吃力，建议英语不太好的同学看的时候调成0.75倍速去观看。
+
+这门课并不会教你如何从0开始学会编程，而是通过不断的抽象从底层到上层进行讲解，从高层次上纵览一系列的计算机话题。
+
+![img](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208030948917.png)
+
+在这期间也会穿插着很多有意思的历史故事，比如在存储器的时候就会以算盘为楔子引入，告诉你算法大约出现在公元前2500年。
+
+![img](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208030948315.png)
+
+
+
+适当穿插历史故事，确保小白不会枯燥&中途放弃，当讲到计算机网络的时候，则是以动图的形式告诉你交换机上是如何工作的；
+
+![img](https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202208030949422.png)
+
+交换机是如何工作的
+
+只能说看起来不是一般的爽，而是特别的很爽。
+
+地址：https://www.bilibili.com/video/BV1EW411u7th?p=28&vd_source=3fc05c3b7f095e12a12ea9850e2e0a35
 
 - **CS-50**
 
