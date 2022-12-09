@@ -50,7 +50,7 @@ git push origin master
 
 ### 2、各类精品编程资源分享
 
-https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html
+  <a href="https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html" target="_blank">传送门</a>
 
 - 速来！浙江大学CS本科生课程开源了
 - 大格局！清华大学计算机系课程攻略共享计划！
@@ -64,6 +64,7 @@ https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html
 - 后端必备！SQL语法速成手册！~
 - 10套简历模板！Word格式，白嫖可用~
 - 《Pro Git 中文版》PDF，带你学会git的骚操作~
+- ....
 
 
 
