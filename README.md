@@ -35,7 +35,10 @@ git push origin master
 
 ### 1、我自己的学习笔记网站
 
-从校园->职场多年的计算机自学总结，包括但不限计算机基础知识、算法、前端后端、校招&社招、互联网一线大厂中的工作体验等记录，坚持学习，持续成长！<a href="https://interviewguide.cn/#/" target="_blank">传送门</a>
+<div>
+  从校园->职场多年的计算机自学总结，包括但不限计算机基础知识、算法、前端后端、校招&社招、互联网一线大厂中的工作体验等记录，坚持学习，持续成长！
+  <a href="https://interviewguide.cn/#/" target="_blank">传送门</a>
+</div>
 
 <div align="center">
   <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html">
