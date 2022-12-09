@@ -29,6 +29,41 @@ git push origin master
 
 </details>
 
+## 编程资源分享
+
+学习计算机这么多年以来，慢慢的也收集到一些不错的学习资源，现在免费分享一下。
+
+### 1、我自己的学习笔记网站
+
+从校园->职场多年的计算机自学总结，包括但不限计算机基础知识、算法、前端后端、校招&社招、互联网一线大厂中的工作体验等记录，坚持学习，持续成长！<a href="https://interviewguide.cn/#/" target="_blank">传送门</a>
+
+<div align="center">
+  <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html">
+  <img src="https://axiu-image-bed.oss-cn-shanghai.aliyuncs.com/img/202205161146636.png" target="_blank">
+  </a>
+</div>
+
+
+
+### 2、各类精品编程资源分享
+
+https://interviewguide.cn/notes/07-resources/01-free/01-introduce.html
+
+- 速来！浙江大学CS本科生课程开源了
+- 大格局！清华大学计算机系课程攻略共享计划！
+- 1000+计算机经典PDF电子书
+- Java/C++/Golang等版本的LeetCode算法题解
+- 侯捷老师C++&陈硕老师Linux网络编程全套视频
+- 阿里、百度、字节、腾讯等互联网一二线中厂校招面试PDF合集
+- 计算机经典图书TOP50 PDF版本合集
+- Github 上的各种硬核技术学习路线思维导图~
+- 图解操作系统、网络、计算机组成PDF下载！那些让你起飞的计算机基础知识~
+- 后端必备！SQL语法速成手册！~
+- 10套简历模板！Word格式，白嫖可用~
+- 《Pro Git 中文版》PDF，带你学会git的骚操作~
+
+
+
 
 
 ## 良心推荐
