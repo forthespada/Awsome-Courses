@@ -10,7 +10,7 @@
 <b><details><summary>:orange_book: 仓库贡献指南</summary></b>
 
 - 点击右上角`fork`按钮，将项目`fork`到自己的Github账户里。
-- 使用`git clone`将项目克隆到本地。
+- 使用`git clone`将项目克隆到本地。 
 
 ```
 git clone https://github.com/forthespada/Awsome-Courses.git
