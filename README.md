@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/awesome-cs-community/Awsome-Courses" target="_blank">
-  <img src="https://oss.interviewguide.cn/img/202203261514544.png"  alt="loading">
+  <img src="http://oss.interviewguide.cn/img/202203261514544.png"  alt="loading">
   </a>
 </p>
 <p align="center">“ MIT是所有理工科学子的圣殿，素以顶尖的工程学和计算机科学而著名。“<br> 最初打算总结一份MIT的计算课程列表，没想到后来越看越多，<strong>MIT、CMU、PKU、THU....让你看到头秃...</strong></p>
@@ -42,7 +42,7 @@ git push origin master
 
 <div align="center">
   <a href="https://interviewguide.cn/notes/01-guide/web-guide-reading.html">
-  <img src="https://oss.interviewguide.cn/img/202205161146636.png" target="_blank">
+  <img src="http://oss.interviewguide.cn/img/202205161146636.png" target="_blank">
   </a>
 </div>
 
@@ -84,17 +84,17 @@ git push origin master
 
 **第一期**：[点击直达](https://interviewguide.cn/notes/04-experience/01-learn_experience/20210809%20-%20%E7%AC%AC%E4%B8%80%E6%9C%9F-%E6%88%91%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%85%A8%E9%9D%A0B%E7%AB%99%E4%BA%86%EF%BC%8C%E7%9C%9F%E9%A6%99.html)
 
-<img src="https://oss.interviewguide.cn/img/202203261421142.png" alt="第一期" style="width:400px;" />
+<img src="http://oss.interviewguide.cn/img/202203261421142.png" alt="第一期" style="width:400px;" />
 
 
 
 **第二期**：[点击直达](https://interviewguide.cn/notes/04-experience/01-learn_experience/20210823%20-%20%E7%AC%AC%E4%BA%8C%E6%9C%9F-%E6%88%91%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%85%A8%E9%9D%A0B%E7%AB%99%E4%BA%86%EF%BC%8C%E7%9C%9F%E9%A6%99.html)
 
-<img src="https://oss.interviewguide.cn/img/202203261421279.png" alt="第二期" style="width:400px;" />
+<img src="http://oss.interviewguide.cn/img/202203261421279.png" alt="第二期" style="width:400px;" />
 
 **第三期**：[点击直达](https://interviewguide.cn/notes/04-experience/01-learn_experience/20210907%20-%20%E7%AC%AC%E4%B8%89%E6%9C%9F-%E6%88%91%E5%AD%A6%E7%BC%96%E7%A8%8B%E5%85%A8%E9%9D%A0B%E7%AB%99%E4%BA%86%EF%BC%8C%E7%9C%9F%E9%A6%99-%E5%9B%BD%E5%A4%96%E7%AF%87%EF%BC%88%E7%AC%AC%E4%B8%89%E6%9C%9F%EF%BC%89.html)
 
-<img src="https://oss.interviewguide.cn/img/202203261422715.png" alt="第三期" style="width:400px;"  />
+<img src="http://oss.interviewguide.cn/img/202203261422715.png" alt="第三期" style="width:400px;"  />
 
 ## 入门科目
 
@@ -111,17 +111,17 @@ git push origin master
 
 这门课并不会教你如何从0开始学会编程，而是通过不断的抽象从底层到上层进行讲解，从高层次上纵览一系列的计算机话题。
 
-![img](https://oss.interviewguide.cn/img/202208030948917.png)
+![img](http://oss.interviewguide.cn/img/202208030948917.png)
 
 在这期间也会穿插着很多有意思的历史故事，比如在存储器的时候就会以算盘为楔子引入，告诉你算法大约出现在公元前2500年。
 
-![img](https://oss.interviewguide.cn/img/202208030948315.png)
+![img](http://oss.interviewguide.cn/img/202208030948315.png)
 
 
 
 适当穿插历史故事，确保小白不会枯燥&中途放弃，当讲到计算机网络的时候，则是以动图的形式告诉你交换机上是如何工作的；
 
-![img](https://oss.interviewguide.cn/img/202208030949422.png)
+![img](http://oss.interviewguide.cn/img/202208030949422.png)
 
 交换机是如何工作的
 
