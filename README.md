@@ -139,7 +139,7 @@ git push origin master
 
 多说一句，CS50课程的讲课形式让人耳目一新，真正做到了“快乐学习”。。
 
-地址：https://open.163.com/newview/movie/courseintro?newurl=%2Fspecial%2Fopencourse%2Fcs50.html
+地址：[CS50 官方课程页](https://cs50.harvard.edu/x/)、[网易公开课版本](https://open.163.com/newview/movie/courseintro?newurl=QHKRJIP02)
 
 - **6.0001: Introduction to Computer Science and Programming in Python**
 
@@ -173,7 +173,7 @@ SICP这门课以前在很长一段时间都是MIT入门的第一课，配套的�
 
 本课程介绍了数字系统和计算机架构的设计。强调以高级硬件语言表达所有硬件设计并综合设计，主题包括组合电路和顺序电路、可编程硬件指令集抽象、单周期和管道处理器实现、多级内存层次结构、虚拟内存、异常和 I/O 以及并行系统。
 
-地址：[https://6004.mit.edu/web/spring20](https://link.zhihu.com/?target=https%3A//6004.mit.edu/web/spring20)
+地址：[https://6004.mit.edu/](https://6004.mit.edu/)
 
 - **6.006: Introduction to Algorithms**
 
@@ -267,7 +267,7 @@ Java的基础课程，可以和6.031一起学习。
 
 - **6.170 软件工程（前端开发JavaScript）**
 
-课程地址：[Software Studio](https://link.zhihu.com/?target=https%3A//canvas.mit.edu/courses/4415)
+课程地址：[Software Studio (Spring 2013)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013)
 
 这门课以前是使用Ruby的Rails和JavaScript来搭建一个**全栈开发项目**。而现在则完全是使用JavaScript来做全栈开发，内容包含Node、MySQL、React等。
 
@@ -319,7 +319,7 @@ Java的基础课程，可以和6.031一起学习。
 
 - **6.815/6.865 数字与计算成像**
 
-课程地址：[Digital and Computational Photography](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009/syllabus/)
+课程地址：[Digital and Computational Photography](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-531-computational-camera-and-photography-fall-2009)
 
 - **6.816/6.189 多处理器编程的艺术**
 
@@ -403,14 +403,14 @@ Java的基础课程，可以和6.031一起学习。
 
 全球网络基础设施如何工作，其基础是什么设计原则？在实践中，这些设计原则在哪些方面受到了损害？我们如何使它在当今世界更好地工作？面对快速增长的规模和异质性，我们如何确保它在未来运作良好？应该如何编写 Internet 应用程序，以便它们能够为自己和使用基础结构的其他人获得最佳性能？这些是本课程中正在处理的一些问题。本课程将侧重于大型联网系统的设计、实施、分析和评估。
 
-地址：[https://web.mit.edu/6.829/www/currentsemester/](https://link.zhihu.com/?target=https%3A//web.mit.edu/6.829/www/currentsemester/)
+地址：[https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002/)
 
 - **6.830/6.814: Database Systems**
 
 
 本课程依托数据库社区的主要阅读资料，向研究生介绍数据库系统的基础，重点介绍关系代数和数据模型、架构规范化、查询优化和事务。
 
-地址：[http://db.csail.mit.edu/6.830/index.phpdb.csail.mit.edu/6.830/index.php](https://link.zhihu.com/?target=http%3A//db.csail.mit.edu/6.830/index.php)
+地址：[https://dsg.csail.mit.edu/6.5830/](https://dsg.csail.mit.edu/6.5830/)
 
 
 
@@ -420,20 +420,20 @@ Java的基础课程，可以和6.031一起学习。
 
 - [吴恩达机器学习](https://www.coursera.org/learn/machine-learning)
 - [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
-- [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221/)
+- [CS221: Artificial Intelligence: Principles and Techniques](https://cs221.stanford.edu/)
 - [CS 20: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/syllabus.html)
-- [CS234: Reinforcement Learning](http://web.stanford.edu/class/cs234/schedule.html)
-- Amazon 李沐大神出的[《动手学深度学习》](https://discuss.gluon.ai/t/topic/753)
+- [CS234: Reinforcement Learning](https://web.stanford.edu/class/cs234/)
+- Amazon 李沐大神出的[《动手学深度学习》](https://zh.d2l.ai/)
 - 台湾大学林轩田教授 [《机器学习基石上》](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)， [《机器学习基石下》](https://www.coursera.org/learn/ntumlone-algorithmicfoundations)
 - 台湾大学[《Applied Deep Learning/Machine Learning and Having It Deep and Structured》](https://www.csie.ntu.edu.tw/~yvchen/f106-adl/syllabus.html)
 - [UCB CS188](https://www.bilibili.com/video/av15630620/)
 - [MIT 6.034](http://open.163.com/movie/2017/9/Q/S/MCTMNN3UI_MCTMNR8QS.html)
 
-  - 斯坦福 CS229 [视频](http://open.163.com/special/opencourse/machinelearning.html)  [讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
+  - 斯坦福 CS229 [视频](https://open.163.com/newview/movie/courseintro?newurl=RHJP29R05)  [讲义](https://github.com/Kivy-CN/Stanford-CS-229-CN)
 
-  - 斯坦福 CS231n [视频](https://www.bilibili.com/video/av17204303/)  [讲义](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
+  - 斯坦福 CS231n [视频](https://www.bilibili.com/video/BV1b1agz5ERC)  [讲义](https://zhuanlan.zhihu.com/p/21930884?refer=intelligentunit)
 
-  - 斯坦福 CS224d [主页](http://cs224d.stanford.edu/)    [讲义](http://blog.csdn.net/column/details/dl-nlp.html)
+  - 斯坦福 CS224d [主页](http://cs224d.stanford.edu/)    [讲义](http://cs224d.stanford.edu/lecture_notes/)
   - [斯坦福 CS20si](https://web.stanford.edu/class/cs20si/)
   - 斯坦福 CS230 / DeepLearningAI [视频](https://mooc.study.163.com/course/deeplearning_ai-2001281002#/info)  [笔记](http://ai-start.com/dl2017/)
   - [MIT 6.S191](https://www.bilibili.com/video/av19113488)
@@ -442,9 +442,9 @@ Java的基础课程，可以和6.031一起学习。
 
 ## 操作系统
 
-- [MIT 大名鼎鼎的6.828](<https://pdos.csail.mit.edu/6.828/2018/schedule.html>)
+- [MIT 大名鼎鼎的6.828（现更名为 6.1810）](<https://pdos.csail.mit.edu/6.828/>)
 
-- [清华大学的OS课程 ucore,视频在学堂在线和bilibili均有](<http://os.cs.tsinghua.edu.cn/oscourse/OS2017spring#A.2Bi.2F56C4nGmJE->)
+- [清华大学的OS课程 ucore（配套实验 os_kernel_lab）](<https://github.com/chyyuu/os_kernel_lab>)
 - [rust 版本ucore rcore](https://rcore-os.github.io/rCore_tutorial_doc/)
 
 - [南京大学 ICS PA](https://nju-projectn.github.io/ics-pa-gitbook/ics2019/)
@@ -455,7 +455,7 @@ Java的基础课程，可以和6.031一起学习。
 
 - 上海交通大学 操作系统 (陈海波、夏虞斌)    [BiliBili链接](https://www.bilibili.com/video/BV1B341117Ez?from=search&seid=711317104834272627&spm_id_from=333.337.0.0)
 
-  - [上海交通大学 SE315](https://ipads.se.sjtu.edu.cn/courses/os/)   [视频课程（好大学在线） ](https://www.cnmooc.org/portal/course/5610/14956.mooc)   [教材 《现代操作系统——原理与实现》](https://ipads.se.sjtu.edu.cn/mospi/)   [配套 Lab](https://gitee.com/ipads-lab/chcore-lab)  
+  - [上海交通大学 SE315](https://ipads.se.sjtu.edu.cn/courses/os/)   [视频课程（好大学在线） ](https://www.cnmooc.org/portal/course/5610/14956.mooc)【已失效】   [教材 《现代操作系统——原理与实现》](https://ipads.se.sjtu.edu.cn/mospi/)   [配套 Lab](https://gitee.com/ipads-lab/chcore-lab)  
 
 - [CMU CSAPP 对应的课程 15213](https://www.cs.cmu.edu/~213/schedule.html)
 - [CMU 15410/605](https://www.cs.cmu.edu/~410/)
@@ -473,7 +473,7 @@ Java的基础课程，可以和6.031一起学习。
 
 - [华盛顿大学 Programming Languages](<https://www.coursera.org/lecture/programming-languages/welcome-and-some-course-mechanics-3dedE>)
 
-- [浓缩版mit 6.001(SICP)](http://web.mit.edu/alexmv/6.037/)
+- [浓缩版mit 6.001(SICP)](https://web.mit.edu/6.001/www/)
 
 
 ## 编译器
@@ -492,20 +492,20 @@ Java的基础课程，可以和6.031一起学习。
 - [CMU 15445](https://15445.courses.cs.cmu.edu/fall2019/#)
 - [CMU 15721](https://15721.courses.cs.cmu.edu/spring2019/)
 
-- [MIT 6.830/6.814](<http://db.lcs.mit.edu/6.830/sched.php>)
+- [MIT 6.830/6.5830](<https://dsg.csail.mit.edu/6.5830/>)
 
 - [pingcap talent-plan](https://zhuanlan.zhihu.com/p/61340679)   
 
-- [instruction](https://docs.google.com/document/d/1UG0OHuL6l_hHWs3oyT9gA2n7LuYUfV23nmz0tRvXq2k/edit#heading=h.ywlair765ic9)
+- [instruction](https://tidb.net/talent-plan)
 
 - [CS 245](http://web.stanford.edu/class/cs245/#schedule)
 - [斯坦福 CS346](https://web.stanford.edu/class/cs346/2015/)
 
 - [伯克利 CS 186](https://cs186berkeley.net/)
 
-- [斯坦福 CS145](https://www.bilibili.com/video/av19616961/)
+- [斯坦福 CS145](https://www.bilibili.com/video/av19616961/)【已失效】
 
-- [华盛顿大学 CSE444](https://courses.cs.washington.edu/courses/cse444/15sp/)
+- [华盛顿大学 CSE444](https://courses.cs.washington.edu/courses/cse444/)
 
 
 ## 分布式系统
@@ -530,19 +530,19 @@ Java的基础课程，可以和6.031一起学习。
 
 - 普林斯顿在 [Coursera](https://www.coursera.org/) 上也公开了两门对应课程：[Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) 和 [Algorightmsm, Part2](https://www.coursera.org/learn/algorithms-part2)
 
-- [斯坦福 CS106b](http://open.163.com/special/opencourse/abstractions.html) (broken link)
+- [斯坦福 CS106b](https://web.stanford.edu/class/archive/cs/cs106b/cs106b.1242/)
 
 ## 计算机网络
 
 -  **计算机科学**  哈佛： [B站](https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av310513%3Ffrom%3Dsearch%26seid%3D4682685095165261117)
 - [CMU-15441](https://computer-networks.github.io/sp19/)
 - [cs144](https://cs144.github.io/)
-- [top to down approach](http://uniteng.com/wiki/doku.php?id=classlog:computer_networks)
+- [top to down approach](http://uniteng.com/wiki/doku.php?id=classlog:computer_networks)【已失效】
 - [myk's top-to-down](https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES)
 - [伯克利 EE122](https://www2.eecs.berkeley.edu/Courses/EE122/)
 - [Gate Lectures 计网](https://www.youtube.com/playlist?list=PLEbnTDJUr_IegfoqO4iPnPYQui46QqT0j)
 - [斯坦福 CS144](https://www.bilibili.com/video/av11930774/)
-- 麻省理工MIT 计算机安全与网络安全  [国内B站链接](https://www.bilibili.com/video/BV1Bm4y1o7cx?spm_id_from=333.1007.top_right_bar_window_history.content.click)
+- 麻省理工MIT 计算机安全与网络安全  [网易公开课（MIT 6.858 计算机系统安全）](https://open.163.com/newview/movie/courseintro?newurl=ZGK28EQLF)
 
 
 ## 计算机系统设计
@@ -582,15 +582,15 @@ Java的基础课程，可以和6.031一起学习。
 
 - **6.828: 操作系统工程**
 
-课程地址：[Operating System Engineering(2018)](https://link.zhihu.com/?target=https%3A//pdos.csail.mit.edu/6.828/2018/schedule.html)、[Operating System Engineering (Fall 2012)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012)
+课程地址：[Operating System Engineering (Fall 2019)](https://pdos.csail.mit.edu/6.828/2019/schedule.html)、[Operating System Engineering (Fall 2012)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-828-operating-system-engineering-fall-2012)
 
-前置课程是 [6.033 Computer System Engineering](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2009)*、*[6.170 Software Studio](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013)*、*[6.004 Computation Structures](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009)
+前置课程是 [6.033 Computer System Engineering (Spring 2018)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-033-computer-system-engineering-spring-2018)*、*[6.170 Software Studio](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-170-software-studio-spring-2013)*、*[6.004 Computation Structures](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-004-computation-structures-spring-2009)
 
 这门课研究的是操作系统的基础设计和实现，包括虚拟内存、线程、上下文切换、内核、中断、系统调用、进程间通信、协调和软件和硬件之间的交互。
 
 - **6.829: 计算机网络**
 
-课程地址：[Computer Networks, Fall 2020](https://link.zhihu.com/?target=https%3A//web.mit.edu/6.829/www/currentsemester/)、[Computer Networks (Fall 2002)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002)
+课程地址：[Computer Networks, Fall 2020](https://web.mit.edu/6.829/www/currentsemester/)【已失效，课程已迁移到需登录的 Canvas】、[Computer Networks (Fall 2002)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-829-computer-networks-fall-2002)
 
 - **6.830/6.814 数据库系统** ★★★★★
 
@@ -606,7 +606,7 @@ Java的基础课程，可以和6.031一起学习。
 
 - **6.840J 计算理论**
 
-课程地址：[Theory of Computation (Fall 2006)](https://link.zhihu.com/?target=https%3A//ocw.mit.edu/courses/mathematics/18-404j-theory-of-computation-fall-2006)
+课程地址：[Introduction to the Theory of Computation (18.404/6.5400)](https://math.mit.edu/~sipser/18404/)
 
 - **6.841J 计算复杂性理论**
 
